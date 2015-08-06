@@ -1,0 +1,1 @@
+C:\git\Java.NETWindowsService\WindowsService\JavaWindowsServiceHost\bin\Debug\za.co.fnbs.JavaWindowsServiceHost.exe.config
