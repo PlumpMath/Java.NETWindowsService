@@ -18,3 +18,13 @@ C:\git\Java.NETWindowsService\WindowsService\Java.NETWindowsService\obj\Debug\Ja
 C:\git\Java.NETWindowsService\Java.NETWindowsService\Java.NETWindowsService\bin\Debug\Java.NETWindowsService.exe.config
 C:\git\Java.NETWindowsService\Java.NETWindowsService\Java.NETWindowsService\obj\Debug\Java.NETWindowsService.exe
 C:\git\Java.NETWindowsService\Java.NETWindowsService\Java.NETWindowsService\obj\Debug\Java.NETWindowsService.pdb
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\bin\Debug\Java.NETWindowsService.exe.config
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\obj\Debug\Java.NETWindowsService.exe
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\obj\Debug\Java.NETWindowsService.pdb
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\bin\Debug\JavaAPI\gs-producing-web-service-0.1.0.jar
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\bin\Debug\NLog.config
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\bin\Debug\Java.NETWindowsService.exe
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\bin\Debug\Java.NETWindowsService.pdb
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\bin\Debug\NLog.dll
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\bin\Debug\NLog.xml
+C:\git\Java.NETWindowsServiceRepos\Java.NETWindowsService\Java.NETWindowsService\obj\Debug\Java.NETWindowsService.csprojResolveAssemblyReference.cache

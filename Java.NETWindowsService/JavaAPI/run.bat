@@ -1,0 +1,1 @@
+"%JAVA_HOME%\..\bin\java.exe" -jar "gs-producing-web-service-0.1.0.jar"
