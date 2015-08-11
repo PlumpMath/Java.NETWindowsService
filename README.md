@@ -1,12 +1,6 @@
-# Java.NETWindowsService 
+# [Java / .NET interop - Windows Service hosting a Java .jar](http://www.phils-osophy.co.za/)
 
-Java / .NET interop - Windows Service hosting a Java .jar
-
-Blog post: http://www.phils-osophy.co.za/
-
-## Intro
-
-I recently got a requirement to integrate with a Java API. 
+I recently received a requirement to integrate with a Java API. 
 I've worked with Java before and [natch](http://www.urbandictionary.com/define.php?term=natch), the requirement came my way.
 
 ## Considerations
@@ -23,8 +17,6 @@ I've worked with Java before and [natch](http://www.urbandictionary.com/define.p
 [^1]:java.exe -jar on a console was thus not an option.
  
 ## The result of ruminating on the constraints
-
-[![Design]({{ site.url }}/assets/DesignJavaHost.svg "Courtesy of https://www.draw.io/")](https://www.draw.io/)
 
 * **Seamless, loosely coupled integration between the .NET application and the Java API** by _**wrap the Java API in a web service**_ that can then just be consumed like any other SOAP based web service.
 
